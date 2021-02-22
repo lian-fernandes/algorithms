@@ -5,3 +5,5 @@ function songDecoder(song){
   noWub = noWub.join(" ")
   return noWub
 }
+
+console.log(songDecoder('AWUBBWUBC'))
